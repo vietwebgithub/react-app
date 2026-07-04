@@ -10,7 +10,7 @@ function App() {
       {/* Vùng hiển thị nội dung bên phải */}
       <div style={{ color: '#fff', flex: 1 }}>
         <h1>Welcome to ReactJS App!</h1>
-        <p>Menu bên cạnh đã sẵn sàng hoạt động. Thử click vào các mục xem sao nhé.</p>
+        <p>Menu ready. Try click on items.</p>
       </div>
     </div>
   );
